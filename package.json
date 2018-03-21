@@ -1,0 +1,16 @@
+{
+  "name": "smutposter",
+  "version": "1.0.0",
+  "description": "Posts pron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "get-image-urls": "^1.0.5"
+  },
+  "devDependencies": {}
+}
